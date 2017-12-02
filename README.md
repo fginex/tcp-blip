@@ -1,6 +1,6 @@
 # tcp-blip
 
-Built around the awesome **[tcp-proxy](https://github.com/jcrugzz/tcp-proxy)** node package
+Built around the awesome **[tcp-proxy](https://github.com/jcrugzz/tcp-proxy)** node package for testing mobile applications. 
 
 Required node packages:
 - util
@@ -13,7 +13,7 @@ Required node packages:
 
 # Description
 
-A binary proxy that can be used to snip the connections of mobile or desktop applications in order to test their reconnect behavior and strategies. Works for:
+A binary proxy that can be used to interactively snip the connections of mobile or desktop applications in order to test their reconnect behavior and strategies. Works for:
 
 - tcp/ip socket 
 - websockets 
