@@ -1,7 +1,6 @@
 {
   "name": "tcp-blip",
   "version": "1.0.0",
-  "private": true,
   "description": "Simple proxy for testing websocket or tcp/ip socket reconnect strategies in mobile apps.",
   "main": "index.js",
   "scripts": {
@@ -17,7 +16,8 @@
     "websocket",
     "websockets",
     "proxy",
-    "reconnect"
+    "reconnect",
+    "test"
   ],
   "author": "fginex",
   "license": "SEE LICENSE IN LICENSE.md",
