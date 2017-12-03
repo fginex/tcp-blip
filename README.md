@@ -1,6 +1,6 @@
 # tcp-blip
 
-Built around the awesome **[tcp-proxy](https://github.com/jcrugzz/tcp-proxy)** node package for testing mobile applications. 
+Built around the awesome **[tcp-proxy](https://github.com/jcrugzz/tcp-proxy)** node package. 
 
 Required node packages:
 - util
@@ -18,7 +18,7 @@ A binary proxy that can be used to interactively snip the connections of mobile 
 - tcp/ip socket 
 - websockets 
 
-The proxy has an interactive command line interpreter with a few simple commands:
+The proxy has an interactive command line interpreter that supports a few simple commands:
 
 - "help" : list the existing commands
 - "list" : list the active client connections. Identifies them as ip and port.
