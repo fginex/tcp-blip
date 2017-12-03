@@ -24,5 +24,13 @@
   "bugs": {
     "url": "https://github.com/fginex/tcp-blip/issues"
   },
-  "homepage": "https://github.com/fginex/tcp-blip#readme"
+  "homepage": "https://github.com/fginex/tcp-blip#readme",
+  "dependencies": {
+    "command-node": "^0.1.1",
+    "ip": "^1.1.5",
+    "net": "^1.0.2",
+    "tcp-proxy": "0.0.1",
+    "tls": "0.0.1",
+    "util": "^0.10.3"
+  }
 }
